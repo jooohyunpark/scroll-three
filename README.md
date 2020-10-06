@@ -1,2 +1,2 @@
 # scroll-three
-Using scroll progress for three.js interaction
+Scrolling transition in threejs scene using [uos](https://www.npmjs.com/package/uos).
